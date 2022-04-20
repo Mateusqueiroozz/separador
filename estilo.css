@@ -1,0 +1,260 @@
+.depur {
+    background-color: #FFF;
+    color: red;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid red;
+    display: none;
+}
+
+div.ui-slider-switch.ui-mini{
+margin-top: 20px;
+}
+
+.form-control-sm {
+    font-size: 9px;
+}
+
+.ui-btn {
+    padding-top: 0.2em;
+    padding-right: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 0.2em;
+}
+
+.pesquisar div {
+    margin: 1px;
+    padding: 6px;
+    background-color: red !important;
+    color: white !important;
+    font-weight: normal !important;
+}
+
+.prdcod {
+    font-size: 28px;
+    color: gray;
+}
+
+.prddesc {
+    font-size: 22px;
+    color: green;
+}
+
+.prdval {
+    font-size: 30px;
+    color: green
+}
+.prdval_antigo {
+    font-size: 25px;
+    color: red;
+text-decoration: line-through;
+}
+
+.prdexcluir {
+    color: green !important;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.prdduplicar {
+    color: red !important;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.confirma {
+    font-weight: normal;
+}
+
+.ui-table th,
+.ui-table td {
+    line-height: 12px;
+}
+
+.tabtitulo {
+    font-size: 12px;
+}
+
+#cabimprime a {
+    height: 23px !important;
+    margin: 0 !important;
+    line-height: 25px !important;
+    padding: 0 5px 0px 6px !important;
+}
+
+div.ui-slider-switch.ui-mini {
+    width: 50px;
+    position: absolute;
+    top: 74px;
+    right: 15px;
+}
+
+.ui-bar {
+    padding: 0 !important;
+}
+
+a {
+    text-decoration: none !important;
+    color: #fff
+}
+
+not:input {
+    width: 100px;
+}
+
+.adiciona .ui-input-text {
+    width: 100px !important;
+}
+
+.tETIQUETA {
+    background-color: red !important
+}
+
+.valor_anterior {
+    text-decoration: underline;
+    color: red;
+    font-size: 14px;
+}
+
+.fab {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+.fab button {
+    cursor: pointer;
+    width: 48px;
+    height: 48px;
+    border-radius: 30px;
+    background-color: #cb60b3;
+    border: none;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .4);
+    font-size: 24px;
+    color: white;
+    -webkit-transition: .2s ease-out;
+    -moz-transition: .2s ease-out;
+    transition: .2s ease-out;
+}
+
+.fab button.main {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: red !important;
+    right: 0;
+    bottom: 0;
+    z-index: 20;
+}
+
+.fab button.main:before {
+    content: '⏚';
+}
+
+.ui-page-theme-a .ui-btn,
+html .ui-bar-a .ui-btn {
+    border-color: #000;
+}
+
+.ui-page-theme-a .ui-btn:visited,
+html .ui-bar-a .ui-btn:visited,
+.ui-page-theme-a .ui-btn,
+html .ui-bar-a .ui-btn {
+    border-color: #000;
+}
+
+.fab ul {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 0;
+    padding-right: 5px;
+    margin: 0;
+    list-style: none;
+    z-index: 10;
+    -webkit-transition: .2s ease-out;
+    -moz-transition: .2s ease-out;
+    transition: .2s ease-out;
+}
+
+.fab ul li {
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    margin-bottom: -10%;
+    opacity: 0;
+    -webkit-transition: .3s ease-out;
+    -moz-transition: .3s ease-out;
+    transition: .3s ease-out;
+}
+
+.fab ul li label {
+    margin-right: 10px;
+    white-space: nowrap;
+    display: block;
+    margin-top: 10px;
+    padding: 5px 8px;
+    background-color: white;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .2);
+    border-radius: 3px;
+    height: 18px;
+    font-size: 16px;
+    pointer-events: none;
+    opacity: 0;
+    -webkit-transition: .2s ease-out;
+    -moz-transition: .2s ease-out;
+    transition: .2s ease-out;
+}
+
+.fab button.main:active,
+.fab button.main:focus {
+    outline: none;
+    background-color: #7716ff;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, .5);
+}
+
+.fab button.main:active:before,
+.fab button.main:focus:before {
+    content: '↑';
+}
+
+.fab button.main:active+ul,
+.fab button.main:focus+ul {
+    bottom: 70px;
+}
+
+.fab button.main:active+ul li,
+.fab button.main:focus+ul li {
+    margin-bottom: 10px;
+    opacity: 1;
+}
+
+.fab button.main:active+ul li:hover label,
+.fab button.main:focus+ul li:hover label {
+    opacity: 1;
+}
+
+#footer {
+    margin: 0px auto 0px auto;
+    padding: 0px 0 0 0;
+    text-align: center;
+    position: static;
+    width: 100%;
+}
+
+.fixed {
+    position: fixed;
+}
+
+.static {
+    position: static;
+}
+
+td {
+    font-size: 10px;
+}
+
+#soma {
+    font-size: 13px;
+}

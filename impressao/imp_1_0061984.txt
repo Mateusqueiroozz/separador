@@ -1,0 +1,20 @@
+
+x0E W1J. GONCALVES DOS SANTOS FILHO E CIA LTDAW0  F
+LOJA.: 10 - COHAMA   ATENDENTE.: 101 - JOELSON DE SOUSA SERRA  Emissao.: 19/04/2022 19:14:55  Vendedor.: 001 - COHAMA
+------------------------------------------------------------------------------------------------------------------------------
+W1    *** DOCUMENTO  N: 0061984*** W0
+------------------------------------------------------------------------------------------------------------------------------
+CodMdlog    Cod Barras          UND QTD            Descricao do Produto                                       Localizacao     
+------------------------------------------------------------------------------------------------------------------------------
+625590      7908350414764       UN  10.00          REFLETOR BRONZEARTE LED 100W 6500K DEEP HI                74.03.40.00.02     
+                                                                                                             74.03.44.00.01     
+                                                                                                                  
+564125      7897752812820       UN  20.00          REFLETOR BRONZEARTE 20W 6500K DEEP LED HIG                74.03.44.00.01     
+625582      7908350414757       UN  30.00          REFLETOR BRONZEARTE 50W 6500K DEEP LED HIG                74.03.40.00.01     
+655481      7908350415082       UN  5.00           PLAFON BRONZEARTE SOBREPOR HIGH END RD 8CM                74.03.40.01.02     
+390232      7897752792603       UN  3.00           LUMINARIA BRONZEARTE DE MESA LED XHN107BC                 74.03.40.01.01     
+626660      7908350411619       UN  4.00           SPOT BRONZEARTE SKILL PT 10W 3000K P/TRILH                74.03.40.01.01     
+
+
+
+

@@ -1,0 +1,26 @@
+
+x0E W1J. GONCALVES DOS SANTOS FILHO E CIA LTDAW0  F
+LOJA.: 10 - COHAMA   ATENDENTE.: 101 - JOELSON DE SOUSA SERRA  Emissao.: 20/04/2022 09:23:04  Vendedor.: 016 - DIEGO BORGES
+------------------------------------------------------------------------------------------------------------------------------
+W1    *** DOCUMENTO  N: 0061972*** W0
+------------------------------------------------------------------------------------------------------------------------------
+CodMdlog    Cod Barras          UND QTD            Descricao do Produto                                       Localizacao     
+------------------------------------------------------------------------------------------------------------------------------
+581372      7898588863437       UN  15.00          LAMPADA STELLA LED TUBULAR T8 120CM 18W 18                L1.06.07.00.02     
+635510      7898588863406       UN  1.00           LAMPADA STELLA LED TUBULAR T8 9W 60CM 900L                L1.06.07.02.01     
+117684      27899287706296      UN  16.00          TOMADINHA TULIPA 119 MT1003                               89.02.38.01.02     
+            7898105770897                                                                   
+            7898214960639                                                                                        
+            789822637069                                                                                         
+14290       7897079080322       UN  1.00           PAINEL LED TASCHIBRA EMB 18W+6W QD 6500K+3                L1.03.11.03.01     
+626279      7908350410810       UN  1.00           EMBUTIDO BRONZEARTE SLIM LED 12W 4.000K QU                L1.04.18.01.02     
+626295      7908350410698       UN  2.00           EMBUTIDO BRONZEARTE SLIM LED 18W 4.000K QU                L1.04.16.00.02     
+626317      7908350410766       UN  2.00           EMBUTIDO BRONZEARTE SLIM LED 24W 4.000K QU                L1.04.16.01.02     
+418390      7899737906968       UN  4.00           EMBUTIDO STELLA LED EASY MR16 4,5W 38  300                L1.04.12.01.01     
+418412      7899737906975       UN  3.00           EMBUTIDO STELLA LED EASY PAR20 7W 30  500L                L1.04.12.01.02     
+636274      7898588865592       UN  2.00           FITA LED ECO 10W/M 12V IP20 3000K STH7814/                74.02.18.03.02     
+444340      7899638104692       UN  3.00           FONTE HAYONIK COLMEIA 5A FTC1205 BIV HAYON                01.02.04.03.02     
+
+
+
+

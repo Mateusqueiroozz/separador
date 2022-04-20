@@ -1,0 +1,48 @@
+<?php
+session_start();
+
+$sessao = session_id();
+
+$connect = mysql_connect('localhost','root','');
+$db = mysql_select_db('buscapreco');
+
+?>
+<!DOCTYPE html> 
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<title>REPOSICAO DE LOJA</title> 
+
+
+</head>
+<body>
+<div data-role="header" data-theme="b">
+<h1>SELECIONE A GONDOLA</h1>
+
+</div>
+
+			<?php
+			//chama o arquivo de configuração com o banco
+
+			require 'conexao2.php';
+
+			//seleciona os dados da tabela produto
+			$query = mysql_query("SELECT id, nome FROM gondola");
+			// abaixo montamos um formulário em html
+			// e preenchemos o select com dados
+			?>
+			<form name="produto" method="post" action="">
+			  <label>SELECIONE A GONDOLA</label>
+			  <select>
+				<option>Selecione...</option>
+				 
+			//abrimos um contador while para que enquanto houver registros ele continua no loopin
+				<?php while($prod = mysql_fetch_array($query)) { ?>
+				<option value="<?php echo $prod['id'] ?>"><?php echo $prod['nome'] ?></option>
+				<?php } ?>
+			  </select>
+			</form>
+
+</body>
+
+</html>

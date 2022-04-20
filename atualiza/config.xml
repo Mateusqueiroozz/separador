@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<url>
+    <Text>http://192.168.254.231/buscapreco/atualizar.php</Text>
+</url>
+
+<intervalo>
+  <segundos>300</segundos>
+</intervalo>
+</root>

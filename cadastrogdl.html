@@ -1,0 +1,50 @@
+<?php
+session_start();
+
+$sessao = session_id();
+
+$connect = mysql_connect('localhost','root','');
+$db = mysql_select_db('buscapreco');
+
+?>
+<!DOCTYPE html> 
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<title>REPOSICAO DE LOJA</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<link rel="stylesheet" href="/buscapreco/js/jquery.mobile/jquery.mobile-1.4.5.min.css" />
+	<script src="/buscapreco/js/jquery2.js"></script>
+	<script src="/buscapreco/js/jquery.mobile/jquery.mobile-1.4.5.min.js"></script>
+
+
+</head>
+<body>
+<div data-role="header" data-theme="b">
+<h1>CADASTRO DE GONDOLA</h1>
+
+</div>
+<div  id="container">
+	<div  id="contents">
+		<div id="campos">
+			<form method="POST" action="cadastrogdl.php">
+			<div align='center'><br>
+			</div>
+			<label>NOME DA GONDOLA: </label>
+			<input size="48" type="text" name="nome" id="nome">	
+			<label>QUANTIDADE TOTAL DE PRODUTOS NA GONDOLA: </label>
+			<input size="48" type="text" name="qtdtotal" id="qtdtotal">		
+			<label>RESPONSAVEL: </label>
+			<input size="48" type="text" name="responsavel" id="responsavel">	
+				
+			<div id="botaocadastro">
+					<input style="width:225;height:30;" type="submit" name="CADASTRAR" value="CADASTRAR GONDOLA">
+					</div>
+			</form>
+		
+		</div>
+		</div>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,42 @@
+
+x0E W1J. GONCALVES DOS SANTOS FILHO E CIA LTDAW0  F
+LOJA.: 10 - COHAMA   ATENDENTE.: 101 - JOELSON DE SOUSA SERRA  Emissao.: 20/04/2022 12:20:10  Vendedor.: 001 - COHAMA
+------------------------------------------------------------------------------------------------------------------------------
+W1    *** DOCUMENTO  N: 0060477*** W0
+------------------------------------------------------------------------------------------------------------------------------
+CodMdlog    Cod Barras          UND QTD            Descricao do Produto                                       Localizacao     
+------------------------------------------------------------------------------------------------------------------------------
+93670       7897079081398       UN  2.00           PAINEL LED TASCHIBRA SOB 24W QD 300X300 30                L1.03.07.02.01     
+531014      7897079081404       UN  5.00           PAINEL LED SOB TASCHIBRA QD 24W 285X285X28                L1.03.09.01.02     
+                                                                                                             L1.03.11.00.01.00.02     
+                                                                                                                  
+531049      7897079081244       UN  5.00           PAINEL LED EMB QD 24W 6500K  LUX                          L1.03.07.03.01     
+531120      7897079083576       UN  10.00          SPOT EMB LED ALLTOP MR16 QD 5W 6500K                      L1.03.09.02.01     
+416274      7897079083569       UN  20.00          SPOT LED TASCHIBRA EMB 5W QD ALLTOP MR16 3                L1.03.09.03.02     
+64742       7897079068283       UN  20.00          LAMPADA TASCHIBRA LED TKL 1600 6500K 17W                  L1.02.17.02.01     
+445096      7897079068337       UN  70.00          LAMPADA TASCHIBRA LED 15W TKL 90 6500K                    L1.02.15.01.02     
+598186      7897079085068       UN  50.00          LAMPADA LED TASCHIBRA TKL-80 12W 6500K 110                L1.02.15.01.02     
+63509       7897079065565       UN  50.00          LAMPADA LED TASCHIBRA 90W TKL 60 3000K                    L1.02.15.01.02     
+340960      7897079065589       UN  60.00          LAMPADA TASCHIBRA LED TKL 60 9W 6500K                     L1.02.17.01.01     
+                                                                                                             L1.02.17.01.02     
+                                                                                                                  
+368270      7897079059380       UN  30.00          LAMPADA TASCHIBRA LED TUBULAR 1900 6500K                  L1.06.03.03.01     
+597864      7897079075472       UN  5.00           LAMPADA TASCHIBRA FILAMENTO VITAGE ST64 11                L1.02.17.03.01     
+437298      7897079075878       UN  10.00          LAMPADA TASCHIBRA LED TKL COLORS AZ                       L1.02.17.01.01     
+437263      7897079075847       UN  10.00          LAMPADA TASCHIBRA LED TKL COLORS AM                       L1.02.17.01.02     
+437271      7897079075854       UN  10.00          LAMPADA TASCHIBRA LED TKL COLORS VM                       L1.02.17.01.01     
+437280      7897079075861       UN  10.00          LAMPADA TASCHIBRA LED TKL COLORS VD                       L1.02.17.01.01     
+508780      7897079045468       UN  12.00          LAMPADA TASCHIBRA LED 1W BOLINHA VD 220V                  L1.02.17.03.01     
+508764      7897079045420       UN  5.00           LAMPADA TASCHIBRA LED 1W BOLINHA AM 220V                  L1.02.17.03.01     
+
+Observacoes
+
+------------------------------------------------------------------------------------------------------------------------------
+x0E W1J. GONCALVES DOS SANTOS FILHO E CIA LTDAW0  F
+LOJA.: 10 - COHAMA   ATENDENTE.: 101 - JOELSON DE SOUSA SERRA  Emissao.: 20/04/2022 12:20:10  Vendedor.: 001 - COHAMA
+------------------------------------------------------------------------------------------------------------------------------
+W1    *** DOCUMENTO  N: 0060477*** W0
+------------------------------------------------------------------------------------------------------------------------------
+
+
+

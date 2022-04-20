@@ -1,0 +1,25 @@
+
+x0E W1J. GONCALVES DOS SANTOS FILHO E CIA LTDAW0  F
+LOJA.: 10 - COHAMA   ATENDENTE.: 101 - JOELSON DE SOUSA SERRA  Emissao.: 19/04/2022 19:16:45  Vendedor.: 102 - ALESSANDRO ARAU
+------------------------------------------------------------------------------------------------------------------------------
+W1    *** DOCUMENTO  N: 0061980*** W0
+------------------------------------------------------------------------------------------------------------------------------
+CodMdlog    Cod Barras          UND QTD            Descricao do Produto                                       Localizacao     
+------------------------------------------------------------------------------------------------------------------------------
+435147      7897752783106       UN  2.00           EMBUTIDO BRONZEARTE SLIM LED QUAD 24W 3000                L1.04.18.01.01     
+626392      7908350414825       UN  1.00           EMBUTIDO BRONZEARTE SLIMTECH FIT LED RT 30                L1.04.16.00.01     
+623849      7898588864946       UN  7.00           EMBUTIDO STELLA LED EASY PAR20 7W 30 590LM                L1.04.12.01.01     
+463809      7897079076332       UN  19.00          PENDENTE TASCH DOT METAL DECOR PRETO                      74.03.13.02.01     
+404799      7899737904902       UN  19.00          LAMPADA STELLA LED 2W BALLOON G95 VINTAGE                 L1.02.09.02.02     
+412813      7899737904544       UN  5.00           FITA LED STELLA 6W/M 12V IP20 4000K STH680                74.02.20.03.02     
+399566      7899737904537       UN  1.00           FITA LED STELLA 6W/M 12V IP20 2700K STH680                74.02.20.03.01     
+625752      7899737908313       UN  2.00           FITA LED STELLA ECO 10W/M 12V IP20 2700K S                74.02.24.02.02     
+321613      7899638101813       UN  2.00           FONTE HAYONIK COLMEIA 20A FTE1220 BIV HAYO                01.02.02.01.01     
+            6902014060206                                                                   
+            7899638104920                                                                                        
+444340      7899638104692       UN  7.00           FONTE HAYONIK COLMEIA 5A FTC1205 BIV HAYON                01.02.04.03.02     
+658472      7899638106818       UN  1.00           FONTE COLMEIA 12VDC 15A 180W BIVOLT MANUAL                     
+
+
+
+

@@ -1,0 +1,21 @@
+
+x0E W1J. GONCALVES DOS SANTOS FILHO E CIA LTDAW0  F
+LOJA.: 10 - COHAMA   ATENDENTE.: 101 - JOELSON DE SOUSA SERRA  Emissao.: 19/04/2022 19:21:40  Vendedor.: 001 - COHAMA
+------------------------------------------------------------------------------------------------------------------------------
+W1    *** DOCUMENTO  N: 0061977*** W0
+------------------------------------------------------------------------------------------------------------------------------
+CodMdlog    Cod Barras          UND QTD            Descricao do Produto                                       Localizacao     
+------------------------------------------------------------------------------------------------------------------------------
+608033      7908350407209       UN  20.00          EMBUTIDO BRONZEARTE EASY LED 7,5X7,5CM QD                 L1.04.14.02.01     
+608050      7908350407247       UN  20.00          EMBUTIDO BRONZEARTE EASY LED 9,5X9,5CM QD                 L1.04.18.00.01     
+626422      7908350417789       UN  5.00           EMBUTIDO BRONZEARTE SLIMTECH QD LED 50W 65                L1.04.14.00.01     
+435139      7897752783113       UN  30.00          EMBUTIDO BRONZEARTE SLIM LED QUADRADO 24W                 L1.04.14.00.01/02     
+433446      7897752792962       UN  20.00          PLAFON BRONZEARTE HOME LED SOBREPOR QUADRA                L1.04.14.02.01     
+433462      7897752792955       UN  20.00          PLAFON BRONZEARTE HOME LED SOBREPOR QUADRA                L1.04.18.01.02     
+433489      7897752792979       UN  20.00          PLAFON BRONZEARTE HOME LED RL29246BC SOBRE                L1.04.18.00.01/02     
+634220      7908350413057       UN  1.00           PAINEL SOB HOMETECH LED QD 50W 6500K FACHO                L1.04.16.00.01     
+644358      7908350413323       UN  10.00          EMBUTIDO SLIMTECH FIT LED RT 45W 3000K                    L1.04.16.00.01     
+
+
+
+
